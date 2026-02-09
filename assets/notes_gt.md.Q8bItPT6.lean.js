@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./chunks/framework.Dn7Y7LSn.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"notes/gt.md","filePath":"notes/gt.md"}'),o={name:"notes/gt.md"};function s(n,r,c,p,_,d){return e(),a("div")}const f=t(o,[["render",s]]);export{m as __pageData,f as default};

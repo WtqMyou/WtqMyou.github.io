@@ -1,0 +1,1 @@
+import{_ as e,o as t,c}from"./chunks/framework.Dn7Y7LSn.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"projects/cet6.md","filePath":"projects/cet6.md"}'),r={name:"projects/cet6.md"};function a(o,s,n,p,_,d){return t(),c("div")}const f=e(r,[["render",a]]);export{m as __pageData,f as default};
